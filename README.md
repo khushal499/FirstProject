@@ -1,3 +1,3 @@
-# FirstProject
-this repo contains my first ever project  on git
-delhi is too hot now a days
+this repo contains my first ever project  
+This is the  first time i'm using git
+
